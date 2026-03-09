@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 0,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about corruption in Tegucigalpa public infrastructure.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.192,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.501,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 1,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about embezzlement of healthcare funds in the national hospitals.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.319,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.535,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 2,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about environmental destruction by mining companies in Olancho.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.371,
+            "tone_accuracy": 5,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.504,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 3,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about nepotism in state-owned enterprises.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.124,
+            "tone_accuracy": 2,
+            "structure_quality": 1,
+            "language_fluency": 3,
+            "journalism_realism": 2,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.491,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 4,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about irregularities in the national energy company ENEE.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.373,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.509,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 5,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about the infiltration of organized crime in local municipalities.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.373,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.529,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 6,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about mismanagement of education budgets.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.429,
+            "tone_accuracy": 5,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.525,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 7,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about illegal logging in the Rio Platano Biosphere Reserve.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.377,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.503,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 8,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about bribes in the construction of national highways.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.371,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.512,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 9,
+        "category": "investigative",
+        "user_prompt": "Write an investigative journalism article about the delayed implementation of the CICIH (anti-corruption commission).",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.424,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.479,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 10,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about severe flooding in northern Honduras due to tropical storms.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.536,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.609,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 11,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about new economic measures announced by the Central Bank.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.529,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.568,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 12,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about the rising cost of the basic food basket (canasta basica).",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.488,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.577,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 13,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about teachers going on strike in Francisco Morazan.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.5,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.538,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 14,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about the inauguration of a new public hospital in Comayagua.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.248,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.505,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 15,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about changes to the national minimum wage.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.5,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.559,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 16,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about the start of the coffee harvest season.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.542,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.496,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 17,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about heavy traffic congestion during the holidays in Tegucigalpa.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.553,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.575,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 18,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about a new infrastructure project in San Pedro Sula.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.52,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.498,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 19,
+        "category": "mainstream",
+        "user_prompt": "Write a news report about the response of COPECO to recent landslides.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.599,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.538,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 20,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the Honduras national football team preparing for the World Cup qualifiers.",
+        "ft_eval": {
+            "too_short": true,
+            "unique_word_ratio": 0.463,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.512,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 21,
+        "category": "sports",
+        "user_prompt": "Write a sports article about Olimpia winning the national classic against Motagua.",
+        "ft_eval": {
+            "too_short": true,
+            "unique_word_ratio": 0.317,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.515,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 22,
+        "category": "sports",
+        "user_prompt": "Write a sports article about Real Espana's new head coach announcement.",
+        "ft_eval": {
+            "too_short": true,
+            "unique_word_ratio": 0.51,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.516,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 23,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the performance of Honduran players in European leagues.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.044,
+            "tone_accuracy": 2,
+            "structure_quality": 1,
+            "language_fluency": 2,
+            "journalism_realism": 1,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.512,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 24,
+        "category": "sports",
+        "user_prompt": "Write a sports article about Marathon securing a crucial victory at the Yankel Rosenthal stadium.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.523,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.543,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 25,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the upcoming CONCACAF Champions League matches.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.176,
+            "tone_accuracy": 2,
+            "structure_quality": 2,
+            "language_fluency": 2,
+            "journalism_realism": 1,
+            "hallucination_found": true,
+            "hallucination_explanation": "The article contains code snippets and advertising placeholders instead of coherent content, making it read more like a technical document than a news article."
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.528,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 26,
+        "category": "sports",
+        "user_prompt": "Write a sports article about a controversial referee decision in the Liga Nacional.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.358,
+            "tone_accuracy": 3,
+            "structure_quality": 2,
+            "language_fluency": 3,
+            "journalism_realism": 2,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.518,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 27,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the rising stars in the Honduran Under-20 national team.",
+        "ft_eval": {
+            "too_short": true,
+            "unique_word_ratio": 0.462,
+            "tone_accuracy": 2,
+            "structure_quality": 2,
+            "language_fluency": 3,
+            "journalism_realism": 2,
+            "hallucination_found": true,
+            "hallucination_explanation": "The article contains references to unrelated topics such as Cristiano Ronaldo and Barcelona, which do not pertain to the main subject of Motagua and Olimpia, indicating a lack of focus and coherence typical of a real news article."
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.501,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 28,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the history of the rivalry between Olimpia and Motagua.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.415,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 5,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.518,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 29,
+        "category": "sports",
+        "user_prompt": "Write a sports article about the fan atmosphere at the National Stadium in Tegucigalpa.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.434,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.468,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 30,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about daily life and the vibrant street food scene in San Pedro Sula.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.281,
+            "tone_accuracy": 5,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.49,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 31,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the traditions behind the celebration of the Virgen de Suyapa.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.269,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.451,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 32,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the cultural significance of the Lenca people in western Honduras.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.326,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.485,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 33,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about a weekend trip to Valle de Angeles.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.269,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.497,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 34,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the best places to eat baleadas in Tegucigalpa.",
+        "ft_eval": {
+            "too_short": true,
+            "unique_word_ratio": 0.406,
+            "tone_accuracy": 2,
+            "structure_quality": 2,
+            "language_fluency": 3,
+            "journalism_realism": 1,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.486,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 35,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the preservation of the Garifuna culture and Punta music.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.229,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 3,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.465,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 36,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about reviewing a new Honduran independent film.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.551,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.536,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 37,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the atmosphere during the Feria Isidra in La Ceiba.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.5,
+            "tone_accuracy": 5,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.469,
+            "tone_accuracy": 5,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 38,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the revival of traditional Honduran literature.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.28,
+            "tone_accuracy": 4,
+            "structure_quality": 3,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.437,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 39,
+        "category": "cultural",
+        "user_prompt": "Write a blog post about the impact of migration on family dynamics in rural Honduras.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.183,
+            "tone_accuracy": 3,
+            "structure_quality": 4,
+            "language_fluency": 3,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.455,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 40,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the macroeconomics of Honduras and foreign debt.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.401,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.477,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 41,
+        "category": "edge_case",
+        "user_prompt": "Write an article about international coffee export trends shaping the Honduran market.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.48,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.451,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 42,
+        "category": "edge_case",
+        "user_prompt": "Write an article about investigative journalism detailing the history of organized crime in Honduras.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.28,
+            "tone_accuracy": 3,
+            "structure_quality": 4,
+            "language_fluency": 4,
+            "journalism_realism": 3,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.484,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 43,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the diplomatic relations between Honduras and China.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.333,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.463,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 44,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the impact of remittances on the Honduran economy.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.503,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.548,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 45,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the rise of tech startups in San Pedro Sula.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.408,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.517,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 46,
+        "category": "edge_case",
+        "user_prompt": "Write an article about agricultural innovation in the production of palm oil.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.422,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.417,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 47,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the challenges of urban planning in a growing Tegucigalpa.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.471,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.514,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 48,
+        "category": "edge_case",
+        "user_prompt": "Write an article about a deep dive into the Honduran penal system.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.381,
+            "tone_accuracy": 4,
+            "structure_quality": 4,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": true,
+            "hallucination_explanation": "The dates provided for the capture, trial start, trial conclusion, and sentencing of Concepción Quilmarí are unrealistic and suggest a fabricated timeline, as they extend far into the future (2024-2030)."
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.473,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    },
+    {
+        "id": 49,
+        "category": "edge_case",
+        "user_prompt": "Write an article about the environmental impact of coastal development in Roatan.",
+        "ft_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.428,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 5,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        },
+        "base_eval": {
+            "too_short": false,
+            "unique_word_ratio": 0.486,
+            "tone_accuracy": 4,
+            "structure_quality": 5,
+            "language_fluency": 4,
+            "journalism_realism": 4,
+            "hallucination_found": false,
+            "hallucination_explanation": "None"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "Base": {
+        "avg_tone": 4.64,
+        "avg_struct": 4.24,
+        "avg_hallucination": 4.8,
+        "avg_diversity": 4.0,
+        "boilerplate_count": 0
+    },
+    "v1": {
+        "avg_tone": 3.96,
+        "avg_struct": 3.8,
+        "avg_hallucination": 4.64,
+        "avg_diversity": 3.72,
+        "boilerplate_count": 6
+    },
+    "v2": {
+        "avg_tone": 4.36,
+        "avg_struct": 4.2,
+        "avg_hallucination": 4.84,
+        "avg_diversity": 4.04,
+        "boilerplate_count": 0
+    }
+}
